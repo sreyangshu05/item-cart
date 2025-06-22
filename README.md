@@ -17,7 +17,7 @@ A modern, responsive web application for managing items with image uploads, buil
 
 ## 🚀 Demo
 
-> _Add a link to your live demo here if available!_
+> https://item-cart-live.netlify.app/
 
 ---
 
